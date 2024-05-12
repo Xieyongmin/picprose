@@ -52,6 +52,8 @@ const ankeLatin = Anek_Latin({
   display: 'swap',
   variable: '--font-anke',
 })
+
+export const runtime = "edge";
  
 export const metadata: Metadata = {
  
